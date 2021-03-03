@@ -10,5 +10,9 @@ public class ClasseProva {
 	private void test( ) {
 		System.out.println("");
 	}
+	
+	private void test2( ) {
+		System.out.println("test 2");
+	}
 
 }
